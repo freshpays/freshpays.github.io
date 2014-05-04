@@ -1,0 +1,66 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.bas-blue {
+    color: #1c3f94;
+}
+.bas-blue-dark {
+    color: #13478c;
+}
+.bas-blue-light {
+    color: #4d7ebf;
+}
+.bas-grey {
+    color: #8e8e91;
+}
+.bas-red {
+    color: #ed1c24;
+}
+
+.btn-primary {
+  background-color: #1c3f94;
+  background-image: -moz-linear-gradient(top, #4d7ebf, #1c3f94);
+  background-image: -ms-linear-gradient(top, #4d7ebf, #1c3f94);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4d7ebf), to(#1c3f94));
+  background-image: -webkit-linear-gradient(top, #4d7ebf, #1c3f94);
+  background-image: -o-linear-gradient(top, #4d7ebf, #1c3f94);
+  background-image: linear-gradient(top, #4d7ebf, #1c3f94);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4d7ebf', endColorstr='#1c3f94', GradientType=0);
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  background-color: #1c3f94;
+}
+
+.btn-primary:active, .btn-primary.active {
+  background-color: #1c3f94;
+}
+
+div.container a.brand {
+    background: url("../img/BC_Logo.png") no-repeat scroll 0 10px transparent;
+    margin-left: 0;
+    padding: 8px 20px 12px 40px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.h1 {
+    color: #1c3f94;
+}
+.h2 {
+    color: #8e8e91;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
